@@ -50,7 +50,7 @@ function App() {
             React Redux
           </a>
         </span>
-        <h2>Built By : Rajat Gudigar</h2>
+        <h2>Developed By : Rajat Gudigar</h2>
       </header>
     </div>
   );
